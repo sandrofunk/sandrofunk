@@ -27,12 +27,7 @@ Atualmente sou Bolsista Fapesp de um Projeto PIPE, a ser desenvolvido juntamente
 - Git;
 - Bitbucket.
 
-
-
 ## Redes Sociais e Links Bio:
-
-Dillinger is currently extended with the following plugins.
-Instructions on how to use them in your own application are linked below.
 
 | BIO | LINK |
 | ------ | ------ |
