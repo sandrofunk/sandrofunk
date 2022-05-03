@@ -6,6 +6,7 @@ You can click the Preview link to take a look at your changes.
 ### Olá !!! Eu sou Sandro Gonçales Funk.
 ### Hi !!! I am Sandro Gonçales Funk.
 
+---
 
 __Quality Assurance__
  <br /> [ Backend | Frontend | Software Quality ]
