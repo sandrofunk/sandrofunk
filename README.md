@@ -3,11 +3,12 @@ sandrofunk/sandrofunk is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-### Olá !!! Eu sou Sandro Gonçales Funk
+### Olá !!! Eu sou Sandro Gonçales Funk.
+### Hi !!! I am Sandro Gonçales Funk.
 
 
 __Quality Assurance__
- <br /> [ Backend | Frontend | Qualidade de Software ]
+ <br /> [ Backend | Frontend | Software Quality ]
 
 ---
 
