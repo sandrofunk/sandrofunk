@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 __Quality Assurance__
- <br /> [ Backend | Frontend | Software Quality ]
+ <br /> Projetos - [ Backend | Frontend | Software Quality ]
 
 ---
 
