@@ -38,6 +38,18 @@ __Aseguramiento de la calidad__
 
 ---
 
+## Ferramentas e Tecnologias
+
+<div style="display: flex; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40"/>
+          
+</div>
+
+---
+
 <h3 align="left">Minhas conexões:</h3>
 <p align="left">
   <a href="https://twitter.com/sandrofunk" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="sandrofunk" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
