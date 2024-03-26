@@ -37,16 +37,18 @@ __Aseguramiento de la calidad__
 * ⚡ Amo andar en bicicleta y viajar.
 
 ---
+
 <h3 align="left">Minhas conexões:</h3>
 <p align="left">
-<a href="https://twitter.com/sandrofunk" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="sandrofunk" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/sandro-funk-790223174/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="sandrofunk" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/sandrofunk" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="sandrofunk" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sandro-funk-790223174/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" alt="sandrofunk" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@sagfunk" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/medium-logo.png" alt="sagfunk" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
 
-<hr>
 
+<hr>
 <p align= "left">
 <a href="https://github.com/sandrofunk">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=sandrofunk&theme=radical">
