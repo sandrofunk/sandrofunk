@@ -48,10 +48,7 @@ Atuo com foco em garantir entregas robustas, eficientes e com alta cobertura de 
 ## 📫 Contato
 
 📧 sagfunk@gmail.com 
-🔗 [LinkedIn](https://www.linkedin.com/in/sandro-funk-790223174/)  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/sandro-funk-790223174/)
+
 🌐 [Portfólio GitHub Pages](https://sandrofunk.github.io)
-
----
-
-Sinta-se à vontade para explorar meus repositórios e conectar comigo.  
-Vamos juntos construir soluções de qualidade! 🚀
